@@ -1,0 +1,11 @@
+{
+  "Items": [
+    {
+      "Rank": 0,
+      "MaximumInfluence": 1000,
+      "InfluenceCost": 0,
+      "SanityCheck": null,
+      "GameEventId": null
+    }
+  ]
+}

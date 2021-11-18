@@ -1,0 +1,32 @@
+{
+  "Items": [
+    {
+      "ContributionId": "Damage_Dealt",
+      "Category": "Default",
+      "Value": 0,
+      "Shared": 0,
+      "Expires": 1
+    },
+    {
+      "ContributionId": "Damage_Received",
+      "Category": "Default",
+      "Value": 1,
+      "Shared": 0,
+      "Expires": 1
+    },
+    {
+      "ContributionId": "Support",
+      "Category": "Default",
+      "Value": 0,
+      "Shared": 0,
+      "Expires": 1
+    },
+    {
+      "ContributionId": "Killed",
+      "Category": "Default",
+      "Value": 1,
+      "Shared": 0,
+      "Expires": 1
+    }
+  ]
+}

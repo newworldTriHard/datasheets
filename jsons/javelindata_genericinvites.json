@@ -1,0 +1,36 @@
+{
+  "Items": [
+    {
+      "ActivityCrc": "Duel",
+      "ActivityType": 1,
+      "DurationSec": 10,
+      "Teams": 2,
+      "MinLevel": 10,
+      "MaxLevel": null,
+      "FactionType": null,
+      "MinDistance": null,
+      "MaxDistance": 10,
+      "AllowInSanctuary": 0,
+      "AllowInFtue": 0,
+      "AllowInWar": 0,
+      "AllowInArena": 0,
+      "DisallowInGameModes": "Dungeon,OutpostRush,Duel,"
+    },
+    {
+      "ActivityCrc": "Trade",
+      "ActivityType": 2,
+      "DurationSec": 10,
+      "Teams": null,
+      "MinLevel": null,
+      "MaxLevel": null,
+      "FactionType": null,
+      "MinDistance": null,
+      "MaxDistance": 10,
+      "AllowInSanctuary": 1,
+      "AllowInFtue": 0,
+      "AllowInWar": 0,
+      "AllowInArena": 0,
+      "DisallowInGameModes": "OutpostRush,Duel,"
+    }
+  ]
+}

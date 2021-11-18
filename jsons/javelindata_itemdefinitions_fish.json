@@ -1,0 +1,874 @@
+{
+  "Items": [
+    {
+      "FishId": "FishingBassSmallT1",
+      "Size": "Small",
+      "FishingXp": 10,
+      "MinWeight": 0,
+      "MaxWeight": 1,
+      "IsSmall": 1,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingBassMediumT1",
+      "Size": "Medium",
+      "FishingXp": 20,
+      "MinWeight": 1,
+      "MaxWeight": 2,
+      "IsSmall": 0,
+      "IsMedium": 1,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingPerchSmallT1",
+      "Size": "Small",
+      "FishingXp": 30,
+      "MinWeight": 2,
+      "MaxWeight": 3,
+      "IsSmall": 1,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingPerchMediumT1",
+      "Size": "Medium",
+      "FishingXp": 15,
+      "MinWeight": 0,
+      "MaxWeight": 5,
+      "IsSmall": 0,
+      "IsMedium": 1,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingPikeSmallT1",
+      "Size": "Small",
+      "FishingXp": 45,
+      "MinWeight": 5,
+      "MaxWeight": 10,
+      "IsSmall": 1,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingPikeMediumT1",
+      "Size": "Medium",
+      "FishingXp": 10,
+      "MinWeight": 0,
+      "MaxWeight": 1,
+      "IsSmall": 0,
+      "IsMedium": 1,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingPikeLargeT1",
+      "Size": "Large",
+      "FishingXp": 20,
+      "MinWeight": 1,
+      "MaxWeight": 2,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 1
+    },
+    {
+      "FishId": "FishingTroutSmallT1",
+      "Size": "Small",
+      "FishingXp": 30,
+      "MinWeight": 2,
+      "MaxWeight": 3,
+      "IsSmall": 1,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingTroutMediumT1",
+      "Size": "Medium",
+      "FishingXp": 15,
+      "MinWeight": 0,
+      "MaxWeight": 5,
+      "IsSmall": 0,
+      "IsMedium": 1,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingTroutLargeT1",
+      "Size": "Large",
+      "FishingXp": 45,
+      "MinWeight": 5,
+      "MaxWeight": 10,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 1
+    },
+    {
+      "FishId": "FishingSunfishSmallT1",
+      "Size": "Small",
+      "FishingXp": 10,
+      "MinWeight": 0,
+      "MaxWeight": 1,
+      "IsSmall": 1,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingSunfishMediumT1",
+      "Size": "Medium",
+      "FishingXp": 20,
+      "MinWeight": 1,
+      "MaxWeight": 2,
+      "IsSmall": 0,
+      "IsMedium": 1,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingSunfishLargeT1",
+      "Size": "Large",
+      "FishingXp": 30,
+      "MinWeight": 2,
+      "MaxWeight": 3,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 1
+    },
+    {
+      "FishId": "FishingSalmonSmallT1",
+      "Size": "Small",
+      "FishingXp": 15,
+      "MinWeight": 0,
+      "MaxWeight": 5,
+      "IsSmall": 1,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingSalmonMediumT1",
+      "Size": "Medium",
+      "FishingXp": 45,
+      "MinWeight": 5,
+      "MaxWeight": 10,
+      "IsSmall": 0,
+      "IsMedium": 1,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingSalmonLargeT1",
+      "Size": "Large",
+      "FishingXp": 10,
+      "MinWeight": 0,
+      "MaxWeight": 1,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 1
+    },
+    {
+      "FishId": "FishingMackerelSmallT1",
+      "Size": "Small",
+      "FishingXp": 20,
+      "MinWeight": 1,
+      "MaxWeight": 2,
+      "IsSmall": 1,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingMackerelMediumT1",
+      "Size": "Medium",
+      "FishingXp": 30,
+      "MinWeight": 2,
+      "MaxWeight": 3,
+      "IsSmall": 0,
+      "IsMedium": 1,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingSnapperSmallT1",
+      "Size": "Small",
+      "FishingXp": 15,
+      "MinWeight": 0,
+      "MaxWeight": 5,
+      "IsSmall": 1,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingSnapperMediumT1",
+      "Size": "Medium",
+      "FishingXp": 45,
+      "MinWeight": 5,
+      "MaxWeight": 10,
+      "IsSmall": 0,
+      "IsMedium": 1,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingFlounderSmallT1",
+      "Size": "Small",
+      "FishingXp": 10,
+      "MinWeight": 0,
+      "MaxWeight": 1,
+      "IsSmall": 1,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingFlounderMediumT1",
+      "Size": "Medium",
+      "FishingXp": 20,
+      "MinWeight": 1,
+      "MaxWeight": 2,
+      "IsSmall": 0,
+      "IsMedium": 1,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingBluefishSmallT1",
+      "Size": "Small",
+      "FishingXp": 30,
+      "MinWeight": 2,
+      "MaxWeight": 3,
+      "IsSmall": 1,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingBluefishMediumT1",
+      "Size": "Medium",
+      "FishingXp": 15,
+      "MinWeight": 0,
+      "MaxWeight": 5,
+      "IsSmall": 0,
+      "IsMedium": 1,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingHakeSmallT1",
+      "Size": "Small",
+      "FishingXp": 45,
+      "MinWeight": 5,
+      "MaxWeight": 10,
+      "IsSmall": 1,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingHakeMediumT1",
+      "Size": "Medium",
+      "FishingXp": 10,
+      "MinWeight": 0,
+      "MaxWeight": 1,
+      "IsSmall": 0,
+      "IsMedium": 1,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingSturgeonLargeT2",
+      "Size": "Large",
+      "FishingXp": 20,
+      "MinWeight": 1,
+      "MaxWeight": 2,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 1
+    },
+    {
+      "FishId": "FishingCatfishSmallT2",
+      "Size": "Small",
+      "FishingXp": 30,
+      "MinWeight": 2,
+      "MaxWeight": 3,
+      "IsSmall": 1,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingCatfishMediumT2",
+      "Size": "Medium",
+      "FishingXp": 15,
+      "MinWeight": 0,
+      "MaxWeight": 5,
+      "IsSmall": 0,
+      "IsMedium": 1,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingCatfishLargeT2",
+      "Size": "Large",
+      "FishingXp": 45,
+      "MinWeight": 5,
+      "MaxWeight": 10,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 1
+    },
+    {
+      "FishId": "FishingTadpolesSmallT2",
+      "Size": "Small",
+      "FishingXp": 10,
+      "MinWeight": 0,
+      "MaxWeight": 1,
+      "IsSmall": 1,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingSnailSmallT2",
+      "Size": "Small",
+      "FishingXp": 20,
+      "MinWeight": 1,
+      "MaxWeight": 2,
+      "IsSmall": 1,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingCodSmallT2",
+      "Size": "Small",
+      "FishingXp": 30,
+      "MinWeight": 2,
+      "MaxWeight": 3,
+      "IsSmall": 1,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingCodMediumT2",
+      "Size": "Medium",
+      "FishingXp": 15,
+      "MinWeight": 0,
+      "MaxWeight": 5,
+      "IsSmall": 0,
+      "IsMedium": 1,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingCodLargeT2",
+      "Size": "Large",
+      "FishingXp": 45,
+      "MinWeight": 5,
+      "MaxWeight": 10,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 1
+    },
+    {
+      "FishId": "FishingHalibutMedium2",
+      "Size": "Medium",
+      "FishingXp": 10,
+      "MinWeight": 0,
+      "MaxWeight": 1,
+      "IsSmall": 0,
+      "IsMedium": 1,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingHalibutLargeT2",
+      "Size": "Large",
+      "FishingXp": 20,
+      "MinWeight": 1,
+      "MaxWeight": 2,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 1
+    },
+    {
+      "FishId": "FishingClamsSmallT2",
+      "Size": "Small",
+      "FishingXp": 30,
+      "MinWeight": 2,
+      "MaxWeight": 3,
+      "IsSmall": 1,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingSquidSmallT2",
+      "Size": "Small",
+      "FishingXp": 15,
+      "MinWeight": 0,
+      "MaxWeight": 5,
+      "IsSmall": 1,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingSquidMediumT2",
+      "Size": "Medium",
+      "FishingXp": 45,
+      "MinWeight": 5,
+      "MaxWeight": 10,
+      "IsSmall": 0,
+      "IsMedium": 1,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingSquidLargeT2",
+      "Size": "Large",
+      "FishingXp": 10,
+      "MinWeight": 0,
+      "MaxWeight": 1,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 1
+    },
+    {
+      "FishId": "FishingElectricEelSmallT3",
+      "Size": "Small",
+      "FishingXp": 20,
+      "MinWeight": 1,
+      "MaxWeight": 2,
+      "IsSmall": 1,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingElectricEelMediumT3",
+      "Size": "Medium",
+      "FishingXp": 30,
+      "MinWeight": 2,
+      "MaxWeight": 3,
+      "IsSmall": 0,
+      "IsMedium": 1,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingPiranhaSmallT3",
+      "Size": "Small",
+      "FishingXp": 15,
+      "MinWeight": 0,
+      "MaxWeight": 5,
+      "IsSmall": 1,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingPiranhaMediumT3",
+      "Size": "Medium",
+      "FishingXp": 45,
+      "MinWeight": 5,
+      "MaxWeight": 10,
+      "IsSmall": 0,
+      "IsMedium": 1,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingPaddlefishSmallT3",
+      "Size": "Small",
+      "FishingXp": 10,
+      "MinWeight": 0,
+      "MaxWeight": 1,
+      "IsSmall": 1,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingPaddlefishMediumT3",
+      "Size": "Medium",
+      "FishingXp": 20,
+      "MinWeight": 1,
+      "MaxWeight": 2,
+      "IsSmall": 0,
+      "IsMedium": 1,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingPaddlefishLargeT3",
+      "Size": "Large",
+      "FishingXp": 30,
+      "MinWeight": 2,
+      "MaxWeight": 3,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 1
+    },
+    {
+      "FishId": "FishingSpeartoothSharkSmallT3",
+      "Size": "Small",
+      "FishingXp": 15,
+      "MinWeight": 0,
+      "MaxWeight": 5,
+      "IsSmall": 1,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingSpeartoothSharkMediumT3",
+      "Size": "Medium",
+      "FishingXp": 45,
+      "MinWeight": 5,
+      "MaxWeight": 10,
+      "IsSmall": 0,
+      "IsMedium": 1,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingSpeartoothSharkLargeT3",
+      "Size": "Large",
+      "FishingXp": 10,
+      "MinWeight": 0,
+      "MaxWeight": 1,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 1
+    },
+    {
+      "FishId": "FishingMadtomSmallT3",
+      "Size": "Small",
+      "FishingXp": 20,
+      "MinWeight": 1,
+      "MaxWeight": 2,
+      "IsSmall": 1,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingMadtomMediumT3",
+      "Size": "Medium",
+      "FishingXp": 30,
+      "MinWeight": 2,
+      "MaxWeight": 3,
+      "IsSmall": 0,
+      "IsMedium": 1,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingFrogfishSmallT3",
+      "Size": "Small",
+      "FishingXp": 15,
+      "MinWeight": 0,
+      "MaxWeight": 5,
+      "IsSmall": 1,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingFrogfishMediumT3",
+      "Size": "Medium",
+      "FishingXp": 45,
+      "MinWeight": 5,
+      "MaxWeight": 10,
+      "IsSmall": 0,
+      "IsMedium": 1,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingDragonFishSmallT3",
+      "Size": "Small",
+      "FishingXp": 10,
+      "MinWeight": 0,
+      "MaxWeight": 1,
+      "IsSmall": 1,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingDragonFishMediumT3",
+      "Size": "Medium",
+      "FishingXp": 20,
+      "MinWeight": 1,
+      "MaxWeight": 2,
+      "IsSmall": 0,
+      "IsMedium": 1,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingPearlOysterSmallT3",
+      "Size": "Small",
+      "FishingXp": 30,
+      "MinWeight": 2,
+      "MaxWeight": 3,
+      "IsSmall": 1,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingStarfishSmallT3",
+      "Size": "Small",
+      "FishingXp": 15,
+      "MinWeight": 0,
+      "MaxWeight": 5,
+      "IsSmall": 1,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingStingRaySmallT3",
+      "Size": "Small",
+      "FishingXp": 45,
+      "MinWeight": 5,
+      "MaxWeight": 10,
+      "IsSmall": 1,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingStingRayMediumT3",
+      "Size": "Medium",
+      "FishingXp": 10,
+      "MinWeight": 0,
+      "MaxWeight": 1,
+      "IsSmall": 0,
+      "IsMedium": 1,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingStingRayLargeT3",
+      "Size": "Large",
+      "FishingXp": 20,
+      "MinWeight": 1,
+      "MaxWeight": 2,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 1
+    },
+    {
+      "FishId": "FishingSculpinSmallT3",
+      "Size": "Small",
+      "FishingXp": 30,
+      "MinWeight": 2,
+      "MaxWeight": 3,
+      "IsSmall": 1,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingSculpinMediumT3",
+      "Size": "Medium",
+      "FishingXp": 15,
+      "MinWeight": 0,
+      "MaxWeight": 5,
+      "IsSmall": 0,
+      "IsMedium": 1,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingSwordfishMediumT3",
+      "Size": "Medium",
+      "FishingXp": 45,
+      "MinWeight": 5,
+      "MaxWeight": 10,
+      "IsSmall": 0,
+      "IsMedium": 1,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingSwordfishLargeT3",
+      "Size": "Large",
+      "FishingXp": 10,
+      "MinWeight": 0,
+      "MaxWeight": 1,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 1
+    },
+    {
+      "FishId": "FishingMerrowT5",
+      "Size": "Invalid",
+      "FishingXp": 20,
+      "MinWeight": 1,
+      "MaxWeight": 2,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingAnglerFishT5",
+      "Size": "Invalid",
+      "FishingXp": 30,
+      "MinWeight": 2,
+      "MaxWeight": 3,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingBishopFishT5",
+      "Size": "Invalid",
+      "FishingXp": 15,
+      "MinWeight": 0,
+      "MaxWeight": 5,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingMoragT5",
+      "Size": "Invalid",
+      "FishingXp": 45,
+      "MinWeight": 5,
+      "MaxWeight": 10,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingSelkieT5",
+      "Size": "Invalid",
+      "FishingXp": 10,
+      "MinWeight": 0,
+      "MaxWeight": 1,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingMandjeMandjeT5",
+      "Size": "Invalid",
+      "FishingXp": 20,
+      "MinWeight": 1,
+      "MaxWeight": 2,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingEgedeSerpeT5",
+      "Size": "Invalid",
+      "FishingXp": 30,
+      "MinWeight": 2,
+      "MaxWeight": 3,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingNamazuT5",
+      "Size": "Invalid",
+      "FishingXp": 15,
+      "MinWeight": 0,
+      "MaxWeight": 5,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingOgopogoT5",
+      "Size": "Invalid",
+      "FishingXp": 45,
+      "MinWeight": 5,
+      "MaxWeight": 10,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingTessieT5",
+      "Size": "Invalid",
+      "FishingXp": 10,
+      "MinWeight": 0,
+      "MaxWeight": 1,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingHafgufaT5",
+      "Size": "Invalid",
+      "FishingXp": 20,
+      "MinWeight": 1,
+      "MaxWeight": 2,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingAbaiaT5",
+      "Size": "Invalid",
+      "FishingXp": 30,
+      "MinWeight": 2,
+      "MaxWeight": 3,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingMerlionT5",
+      "Size": "Invalid",
+      "FishingXp": 15,
+      "MinWeight": 0,
+      "MaxWeight": 5,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingMishipeshuT5",
+      "Size": "Invalid",
+      "FishingXp": 45,
+      "MinWeight": 5,
+      "MaxWeight": 10,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingSeaweedT1",
+      "Size": "Invalid",
+      "FishingXp": 10,
+      "MinWeight": 0,
+      "MaxWeight": 1,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingBootT2",
+      "Size": "Invalid",
+      "FishingXp": 20,
+      "MinWeight": 1,
+      "MaxWeight": 2,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingAnchorT2",
+      "Size": "Invalid",
+      "FishingXp": 30,
+      "MinWeight": 2,
+      "MaxWeight": 3,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingFishSwordT2",
+      "Size": "Invalid",
+      "FishingXp": 15,
+      "MinWeight": 0,
+      "MaxWeight": 5,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingHeadedHammerT2",
+      "Size": "Invalid",
+      "FishingXp": 45,
+      "MinWeight": 5,
+      "MaxWeight": 10,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingOarT2",
+      "Size": "Invalid",
+      "FishingXp": 10,
+      "MinWeight": 0,
+      "MaxWeight": 1,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 0
+    },
+    {
+      "FishId": "FishingTreasureChestT3",
+      "Size": "Invalid",
+      "FishingXp": 20,
+      "MinWeight": 1,
+      "MaxWeight": 2,
+      "IsSmall": 0,
+      "IsMedium": 0,
+      "IsLarge": 0
+    }
+  ]
+}

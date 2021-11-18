@@ -1,0 +1,46 @@
+{
+  "Items": [
+    {
+      "ContributionId": "Spawn_Killed",
+      "Category": "default",
+      "Value": 1,
+      "Shared": 0,
+      "Expires": 0
+    },
+    {
+      "ContributionId": "Damage_Received",
+      "Category": "default",
+      "Value": 1,
+      "Shared": 0,
+      "Expires": 0
+    },
+    {
+      "ContributionId": "Support",
+      "Category": "default",
+      "Value": 1,
+      "Shared": 0,
+      "Expires": 0
+    },
+    {
+      "ContributionId": "Killed",
+      "Category": "default",
+      "Value": 1,
+      "Shared": 0,
+      "Expires": 0
+    },
+    {
+      "ContributionId": "Wave_Started",
+      "Category": "default",
+      "Value": 1,
+      "Shared": 0,
+      "Expires": 0
+    },
+    {
+      "ContributionId": "Spawn_Interacted",
+      "Category": "default",
+      "Value": 1,
+      "Shared": 0,
+      "Expires": 0
+    }
+  ]
+}

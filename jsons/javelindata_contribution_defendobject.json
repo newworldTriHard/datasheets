@@ -1,0 +1,18 @@
+{
+  "Items": [
+    {
+      "ContributionId": "Spawn_Killed",
+      "Category": "default",
+      "Value": 100,
+      "Shared": 0,
+      "Expires": 0
+    },
+    {
+      "ContributionId": "Spawn_Killed : Invasion_Grunt",
+      "Category": "default",
+      "Value": 100,
+      "Shared": 0,
+      "Expires": 0
+    }
+  ]
+}

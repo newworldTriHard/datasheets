@@ -1,0 +1,257 @@
+{
+  "Items": [
+    {
+      "WarboardStatID": "PlayerKills",
+      "InGameStat": 1,
+      "EndGameStat": 1,
+      "AG_TotalDamageDealt": 0,
+      "AG_HealingDone": 0,
+      "AG_Score": 150,
+      "AG_AITakedowns": 0,
+      "AG_PlayerTakedowns": 1,
+      "AG_TotalResourcesDeposited": 0
+    },
+    {
+      "WarboardStatID": "AIKills",
+      "InGameStat": 0,
+      "EndGameStat": 1,
+      "AG_TotalDamageDealt": 0,
+      "AG_HealingDone": 0,
+      "AG_Score": 40,
+      "AG_AITakedowns": 1,
+      "AG_PlayerTakedowns": 0,
+      "AG_TotalResourcesDeposited": 0
+    },
+    {
+      "WarboardStatID": "InfusedWoodGathered",
+      "InGameStat": 0,
+      "EndGameStat": 1,
+      "AG_TotalDamageDealt": 0,
+      "AG_HealingDone": 0,
+      "AG_Score": 0,
+      "AG_AITakedowns": 0,
+      "AG_PlayerTakedowns": 0,
+      "AG_TotalResourcesDeposited": 0
+    },
+    {
+      "WarboardStatID": "InfusedOreGathered",
+      "InGameStat": 0,
+      "EndGameStat": 1,
+      "AG_TotalDamageDealt": 0,
+      "AG_HealingDone": 0,
+      "AG_Score": 0,
+      "AG_AITakedowns": 0,
+      "AG_PlayerTakedowns": 0,
+      "AG_TotalResourcesDeposited": 0
+    },
+    {
+      "WarboardStatID": "InfusedHideGathered",
+      "InGameStat": 0,
+      "EndGameStat": 1,
+      "AG_TotalDamageDealt": 0,
+      "AG_HealingDone": 0,
+      "AG_Score": 0,
+      "AG_AITakedowns": 0,
+      "AG_PlayerTakedowns": 0,
+      "AG_TotalResourcesDeposited": 0
+    },
+    {
+      "WarboardStatID": "InfusedWoodDeposited",
+      "InGameStat": 0,
+      "EndGameStat": 1,
+      "AG_TotalDamageDealt": 0,
+      "AG_HealingDone": 0,
+      "AG_Score": 2,
+      "AG_AITakedowns": 0,
+      "AG_PlayerTakedowns": 0,
+      "AG_TotalResourcesDeposited": 1
+    },
+    {
+      "WarboardStatID": "InfusedOreDeposited",
+      "InGameStat": 0,
+      "EndGameStat": 1,
+      "AG_TotalDamageDealt": 0,
+      "AG_HealingDone": 0,
+      "AG_Score": 2,
+      "AG_AITakedowns": 0,
+      "AG_PlayerTakedowns": 0,
+      "AG_TotalResourcesDeposited": 1
+    },
+    {
+      "WarboardStatID": "InfusedHideDeposited",
+      "InGameStat": 0,
+      "EndGameStat": 1,
+      "AG_TotalDamageDealt": 0,
+      "AG_HealingDone": 0,
+      "AG_Score": 2,
+      "AG_AITakedowns": 0,
+      "AG_PlayerTakedowns": 0,
+      "AG_TotalResourcesDeposited": 1
+    },
+    {
+      "WarboardStatID": "AzothEssenceDeposited",
+      "InGameStat": 0,
+      "EndGameStat": 0,
+      "AG_TotalDamageDealt": 0,
+      "AG_HealingDone": 0,
+      "AG_Score": 1,
+      "AG_AITakedowns": 0,
+      "AG_PlayerTakedowns": 0,
+      "AG_TotalResourcesDeposited": 1
+    },
+    {
+      "WarboardStatID": "DamageWithWeapons",
+      "InGameStat": 0,
+      "EndGameStat": 1,
+      "AG_TotalDamageDealt": 1,
+      "AG_HealingDone": 0,
+      "AG_Score": 0,
+      "AG_AITakedowns": 0,
+      "AG_PlayerTakedowns": 0,
+      "AG_TotalResourcesDeposited": 0
+    },
+    {
+      "WarboardStatID": "DamageWithSiegeWeapons",
+      "InGameStat": 0,
+      "EndGameStat": 1,
+      "AG_TotalDamageDealt": 1,
+      "AG_HealingDone": 0,
+      "AG_Score": 0,
+      "AG_AITakedowns": 0,
+      "AG_PlayerTakedowns": 0,
+      "AG_TotalResourcesDeposited": 0
+    },
+    {
+      "WarboardStatID": "HealingDoneToSelf",
+      "InGameStat": 0,
+      "EndGameStat": 1,
+      "AG_TotalDamageDealt": 0,
+      "AG_HealingDone": 1,
+      "AG_Score": 0,
+      "AG_AITakedowns": 0,
+      "AG_PlayerTakedowns": 0,
+      "AG_TotalResourcesDeposited": 0
+    },
+    {
+      "WarboardStatID": "HealingDoneToAllies",
+      "InGameStat": 0,
+      "EndGameStat": 1,
+      "AG_TotalDamageDealt": 0,
+      "AG_HealingDone": 1,
+      "AG_Score": 0.01,
+      "AG_AITakedowns": 0,
+      "AG_PlayerTakedowns": 0,
+      "AG_TotalResourcesDeposited": 0
+    },
+    {
+      "WarboardStatID": "TotalDamageDealt",
+      "InGameStat": 0,
+      "EndGameStat": 1,
+      "AG_TotalDamageDealt": 0,
+      "AG_HealingDone": 0,
+      "AG_Score": 0,
+      "AG_AITakedowns": 0,
+      "AG_PlayerTakedowns": 0,
+      "AG_TotalResourcesDeposited": 0
+    },
+    {
+      "WarboardStatID": "HealingDone",
+      "InGameStat": 0,
+      "EndGameStat": 1,
+      "AG_TotalDamageDealt": 0,
+      "AG_HealingDone": 0,
+      "AG_Score": 0,
+      "AG_AITakedowns": 0,
+      "AG_PlayerTakedowns": 0,
+      "AG_TotalResourcesDeposited": 0
+    },
+    {
+      "WarboardStatID": "Score",
+      "InGameStat": 1,
+      "EndGameStat": 1,
+      "AG_TotalDamageDealt": 0,
+      "AG_HealingDone": 0,
+      "AG_Score": 0,
+      "AG_AITakedowns": 0,
+      "AG_PlayerTakedowns": 0,
+      "AG_TotalResourcesDeposited": 0
+    },
+    {
+      "WarboardStatID": "PlayerAssists",
+      "InGameStat": 1,
+      "EndGameStat": 1,
+      "AG_TotalDamageDealt": 0,
+      "AG_HealingDone": 0,
+      "AG_Score": 50,
+      "AG_AITakedowns": 0,
+      "AG_PlayerTakedowns": 1,
+      "AG_TotalResourcesDeposited": 0
+    },
+    {
+      "WarboardStatID": "AIAssists",
+      "InGameStat": 0,
+      "EndGameStat": 1,
+      "AG_TotalDamageDealt": 0,
+      "AG_HealingDone": 0,
+      "AG_Score": 15,
+      "AG_AITakedowns": 1,
+      "AG_PlayerTakedowns": 0,
+      "AG_TotalResourcesDeposited": 0
+    },
+    {
+      "WarboardStatID": "Deaths",
+      "InGameStat": 1,
+      "EndGameStat": 1,
+      "AG_TotalDamageDealt": 0,
+      "AG_HealingDone": 0,
+      "AG_Score": 0,
+      "AG_AITakedowns": 0,
+      "AG_PlayerTakedowns": 0,
+      "AG_TotalResourcesDeposited": 0
+    },
+    {
+      "WarboardStatID": "AlliesRevived",
+      "InGameStat": 0,
+      "EndGameStat": 1,
+      "AG_TotalDamageDealt": 0,
+      "AG_HealingDone": 0,
+      "AG_Score": 0,
+      "AG_AITakedowns": 0,
+      "AG_PlayerTakedowns": 0,
+      "AG_TotalResourcesDeposited": 0
+    },
+    {
+      "WarboardStatID": "AITakedowns",
+      "InGameStat": 1,
+      "EndGameStat": 1,
+      "AG_TotalDamageDealt": 0,
+      "AG_HealingDone": 0,
+      "AG_Score": 0,
+      "AG_AITakedowns": 0,
+      "AG_PlayerTakedowns": 0,
+      "AG_TotalResourcesDeposited": 0
+    },
+    {
+      "WarboardStatID": "PlayerTakedowns",
+      "InGameStat": 0,
+      "EndGameStat": 1,
+      "AG_TotalDamageDealt": 0,
+      "AG_HealingDone": 0,
+      "AG_Score": 0,
+      "AG_AITakedowns": 0,
+      "AG_PlayerTakedowns": 0,
+      "AG_TotalResourcesDeposited": 0
+    },
+    {
+      "WarboardStatID": "TotalResourcesDeposited",
+      "InGameStat": 1,
+      "EndGameStat": 1,
+      "AG_TotalDamageDealt": 0,
+      "AG_HealingDone": 0,
+      "AG_Score": 0,
+      "AG_AITakedowns": 0,
+      "AG_PlayerTakedowns": 0,
+      "AG_TotalResourcesDeposited": 0
+    }
+  ]
+}

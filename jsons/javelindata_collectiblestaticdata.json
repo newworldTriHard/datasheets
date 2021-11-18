@@ -1,0 +1,12 @@
+{
+  "Items": [
+    {
+      "CollectibleId": "CollectibleTest_12",
+      "DisplayName": "@CollectibleTest_12",
+      "CategoricalId": "CollectibleTest",
+      "Icon": null,
+      "Description": null,
+      "TerritoryId": 12
+    }
+  ]
+}

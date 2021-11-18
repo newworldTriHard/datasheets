@@ -1,0 +1,43 @@
+{
+  "Items": [
+    {
+      "NPCId": "0001_CaptainThorpe",
+      "Title": "@0001_CaptainThorpe_title",
+      "GenericName": "@0001_CaptainThorpe",
+      "ConversationStateId1": "0001_01_CaptainThorpe",
+      "ConversationStateId2": null,
+      "ConversationStateId3": null,
+      "ConversationStateId4": null,
+      "ConversationStateId5": null,
+      "ConversationStateId6": null,
+      "ConversationStateId7": null,
+      "ConversationStateId8": null,
+      "ConversationStateId9": null,
+      "ConversationStateId10": null,
+      "TopicId1": null,
+      "TopicId2": null,
+      "TopicId3": null,
+      "TopicId4": null,
+      "TopicId5": null,
+      "TopicId6": null,
+      "TopicId7": null,
+      "TopicId8": null,
+      "TopicId9": null,
+      "TopicId10": null,
+      "Location1": "9390.277,2807.624,91.968",
+      "Location2": "7304.982,3758.331,120.669",
+      "Location3": "8965.864,4256.440,152.485",
+      "Location4": "9517.332,6343.495,250.432",
+      "Location5": null,
+      "Location6": null,
+      "Location7": null,
+      "Location8": null,
+      "Location9": null,
+      "Location10": null,
+      "Location11": null,
+      "Location12": null,
+      "Location13": null,
+      "Location14": null
+    }
+  ]
+}

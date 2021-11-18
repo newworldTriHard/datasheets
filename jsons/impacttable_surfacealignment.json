@@ -1,0 +1,58 @@
+{
+  "Items": [
+    {
+      "Name": "Warhammer_Heavy",
+      "Filter": "ImpactSurfaceAlignmentCast",
+      "VerticalCastDist": 5,
+      "MaxRotAngle": 45,
+      "TiltToSurface": 1,
+      "SnapToPos": 1,
+      "AlignToDamageableTargets": 0
+    },
+    {
+      "Name": "Warhammer_Special",
+      "Filter": "ImpactSurfaceAlignmentCast",
+      "VerticalCastDist": 5,
+      "MaxRotAngle": 45,
+      "TiltToSurface": 1,
+      "SnapToPos": 1,
+      "AlignToDamageableTargets": 1
+    },
+    {
+      "Name": "Warhammer_Mightygavel",
+      "Filter": "ImpactSurfaceAlignmentCast",
+      "VerticalCastDist": 5,
+      "MaxRotAngle": 45,
+      "TiltToSurface": 1,
+      "SnapToPos": 1,
+      "AlignToDamageableTargets": 1
+    },
+    {
+      "Name": "Warhammer_POD",
+      "Filter": "ImpactSurfaceAlignmentCast",
+      "VerticalCastDist": 5,
+      "MaxRotAngle": 45,
+      "TiltToSurface": 1,
+      "SnapToPos": 1,
+      "AlignToDamageableTargets": 1
+    },
+    {
+      "Name": "Warhammer_Shockwave",
+      "Filter": "ImpactSurfaceAlignmentCast",
+      "VerticalCastDist": 5,
+      "MaxRotAngle": 45,
+      "TiltToSurface": 1,
+      "SnapToPos": 1,
+      "AlignToDamageableTargets": 1
+    },
+    {
+      "Name": "Spear_Throw",
+      "Filter": "ImpactSurfaceAlignmentCast",
+      "VerticalCastDist": 0.5,
+      "MaxRotAngle": 45,
+      "TiltToSurface": 1,
+      "SnapToPos": 1,
+      "AlignToDamageableTargets": 1
+    }
+  ]
+}

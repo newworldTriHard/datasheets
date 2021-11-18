@@ -1,0 +1,224 @@
+{
+  "Items": [
+    {
+      "Rank": 0,
+      "DisplayName": null,
+      "MaximumInfluence": 50,
+      "RequiredLevel": 0,
+      "InfluenceCost": 0,
+      "CurrencyCost": 0,
+      "SanityCheck": null,
+      "AdditionalProgressionPoints": 0,
+      "AzothRespecCost": 0
+    },
+    {
+      "Rank": 1,
+      "DisplayName": null,
+      "MaximumInfluence": 100,
+      "RequiredLevel": 0,
+      "InfluenceCost": 50,
+      "CurrencyCost": 0,
+      "SanityCheck": 1,
+      "AdditionalProgressionPoints": 0,
+      "AzothRespecCost": 0
+    },
+    {
+      "Rank": 2,
+      "DisplayName": null,
+      "MaximumInfluence": 200,
+      "RequiredLevel": 0,
+      "InfluenceCost": 100,
+      "CurrencyCost": 0,
+      "SanityCheck": 1,
+      "AdditionalProgressionPoints": 0,
+      "AzothRespecCost": 0
+    },
+    {
+      "Rank": 3,
+      "DisplayName": null,
+      "MaximumInfluence": 400,
+      "RequiredLevel": 0,
+      "InfluenceCost": 200,
+      "CurrencyCost": 0,
+      "SanityCheck": 1,
+      "AdditionalProgressionPoints": 0,
+      "AzothRespecCost": 0
+    },
+    {
+      "Rank": 4,
+      "DisplayName": null,
+      "MaximumInfluence": 700,
+      "RequiredLevel": 0,
+      "InfluenceCost": 400,
+      "CurrencyCost": 0,
+      "SanityCheck": 1,
+      "AdditionalProgressionPoints": 0,
+      "AzothRespecCost": 0
+    },
+    {
+      "Rank": 5,
+      "DisplayName": null,
+      "MaximumInfluence": 1100,
+      "RequiredLevel": 0,
+      "InfluenceCost": 700,
+      "CurrencyCost": 0,
+      "SanityCheck": 1,
+      "AdditionalProgressionPoints": 0,
+      "AzothRespecCost": 0
+    },
+    {
+      "Rank": 6,
+      "DisplayName": null,
+      "MaximumInfluence": 1600,
+      "RequiredLevel": 0,
+      "InfluenceCost": 1100,
+      "CurrencyCost": 0,
+      "SanityCheck": 1,
+      "AdditionalProgressionPoints": 0,
+      "AzothRespecCost": 0
+    },
+    {
+      "Rank": 7,
+      "DisplayName": null,
+      "MaximumInfluence": 2200,
+      "RequiredLevel": 0,
+      "InfluenceCost": 1600,
+      "CurrencyCost": 0,
+      "SanityCheck": 1,
+      "AdditionalProgressionPoints": 0,
+      "AzothRespecCost": 0
+    },
+    {
+      "Rank": 8,
+      "DisplayName": null,
+      "MaximumInfluence": 2900,
+      "RequiredLevel": 0,
+      "InfluenceCost": 2200,
+      "CurrencyCost": 0,
+      "SanityCheck": 1,
+      "AdditionalProgressionPoints": 0,
+      "AzothRespecCost": 0
+    },
+    {
+      "Rank": 9,
+      "DisplayName": null,
+      "MaximumInfluence": 3700,
+      "RequiredLevel": 0,
+      "InfluenceCost": 2900,
+      "CurrencyCost": 0,
+      "SanityCheck": 1,
+      "AdditionalProgressionPoints": 0,
+      "AzothRespecCost": 0
+    },
+    {
+      "Rank": 10,
+      "DisplayName": null,
+      "MaximumInfluence": 4600,
+      "RequiredLevel": 0,
+      "InfluenceCost": 3700,
+      "CurrencyCost": 0,
+      "SanityCheck": 1,
+      "AdditionalProgressionPoints": 0,
+      "AzothRespecCost": 6
+    },
+    {
+      "Rank": 11,
+      "DisplayName": null,
+      "MaximumInfluence": 5600,
+      "RequiredLevel": 0,
+      "InfluenceCost": 4600,
+      "CurrencyCost": 0,
+      "SanityCheck": 1,
+      "AdditionalProgressionPoints": 0,
+      "AzothRespecCost": 6
+    },
+    {
+      "Rank": 12,
+      "DisplayName": null,
+      "MaximumInfluence": 6600,
+      "RequiredLevel": 0,
+      "InfluenceCost": 5600,
+      "CurrencyCost": 0,
+      "SanityCheck": 1,
+      "AdditionalProgressionPoints": 0,
+      "AzothRespecCost": 13
+    },
+    {
+      "Rank": 13,
+      "DisplayName": null,
+      "MaximumInfluence": 7600,
+      "RequiredLevel": 0,
+      "InfluenceCost": 6600,
+      "CurrencyCost": 0,
+      "SanityCheck": 1,
+      "AdditionalProgressionPoints": 0,
+      "AzothRespecCost": 13
+    },
+    {
+      "Rank": 14,
+      "DisplayName": null,
+      "MaximumInfluence": 8600,
+      "RequiredLevel": 0,
+      "InfluenceCost": 7600,
+      "CurrencyCost": 0,
+      "SanityCheck": 1,
+      "AdditionalProgressionPoints": 0,
+      "AzothRespecCost": 19
+    },
+    {
+      "Rank": 15,
+      "DisplayName": null,
+      "MaximumInfluence": 10100,
+      "RequiredLevel": 0,
+      "InfluenceCost": 8600,
+      "CurrencyCost": 0,
+      "SanityCheck": 1,
+      "AdditionalProgressionPoints": 0,
+      "AzothRespecCost": 25
+    },
+    {
+      "Rank": 16,
+      "DisplayName": null,
+      "MaximumInfluence": 12100,
+      "RequiredLevel": 0,
+      "InfluenceCost": 10100,
+      "CurrencyCost": 0,
+      "SanityCheck": 1,
+      "AdditionalProgressionPoints": 0,
+      "AzothRespecCost": 31
+    },
+    {
+      "Rank": 17,
+      "DisplayName": null,
+      "MaximumInfluence": 14100,
+      "RequiredLevel": 0,
+      "InfluenceCost": 12100,
+      "CurrencyCost": 0,
+      "SanityCheck": 1,
+      "AdditionalProgressionPoints": 0,
+      "AzothRespecCost": 38
+    },
+    {
+      "Rank": 18,
+      "DisplayName": null,
+      "MaximumInfluence": 16100,
+      "RequiredLevel": 0,
+      "InfluenceCost": 14100,
+      "CurrencyCost": 0,
+      "SanityCheck": 1,
+      "AdditionalProgressionPoints": 0,
+      "AzothRespecCost": 44
+    },
+    {
+      "Rank": 19,
+      "DisplayName": null,
+      "MaximumInfluence": 20000,
+      "RequiredLevel": 0,
+      "InfluenceCost": 16100,
+      "CurrencyCost": 0,
+      "SanityCheck": 1,
+      "AdditionalProgressionPoints": 0,
+      "AzothRespecCost": 50
+    }
+  ]
+}

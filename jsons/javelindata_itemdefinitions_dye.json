@@ -1,0 +1,556 @@
+{
+  "Items": [
+    {
+      "DyeItemId": "DyeA004",
+      "ColorIndex": 4,
+      "NameNote": "PrimeBlue",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeA022",
+      "ColorIndex": 22,
+      "NameNote": "AmazonOrange",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeA023",
+      "ColorIndex": 23,
+      "NameNote": "TwitchPurple",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeA027",
+      "ColorIndex": 27,
+      "NameNote": "Ship Gray",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeA030",
+      "ColorIndex": 30,
+      "NameNote": "Sublime Bone",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeA032",
+      "ColorIndex": 32,
+      "NameNote": "Bleached Cofee",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeA034",
+      "ColorIndex": 34,
+      "NameNote": "Blood",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeA036",
+      "ColorIndex": 36,
+      "NameNote": "Viola",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeA038",
+      "ColorIndex": 38,
+      "NameNote": "Burnt Sienna",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeA039",
+      "ColorIndex": 39,
+      "NameNote": "Silt",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeA042",
+      "ColorIndex": 42,
+      "NameNote": "Key Lime",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeA043",
+      "ColorIndex": 43,
+      "NameNote": "Forest Green",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeA047",
+      "ColorIndex": 47,
+      "NameNote": "Tradewind",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeA048",
+      "ColorIndex": 48,
+      "NameNote": "Hidden Stream",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeA049",
+      "ColorIndex": 49,
+      "NameNote": "Blued Steel",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeA052",
+      "ColorIndex": 52,
+      "NameNote": "Spring Grape",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeA055",
+      "ColorIndex": 55,
+      "NameNote": "Deep Velvet",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeA057",
+      "ColorIndex": 57,
+      "NameNote": "Lavender",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeA058",
+      "ColorIndex": 58,
+      "NameNote": "Silver",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB100",
+      "ColorIndex": 100,
+      "NameNote": "Frozen Basalt",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB101",
+      "ColorIndex": 101,
+      "NameNote": "Crumbled Rock",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB102",
+      "ColorIndex": 102,
+      "NameNote": "Dove Gray",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB103",
+      "ColorIndex": 103,
+      "NameNote": "Corduroy",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB104",
+      "ColorIndex": 104,
+      "NameNote": "Murky Water",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB105",
+      "ColorIndex": 105,
+      "NameNote": "Natural Gray",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB106",
+      "ColorIndex": 106,
+      "NameNote": "Gunsmoke",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB107",
+      "ColorIndex": 107,
+      "NameNote": "Detritus",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB108",
+      "ColorIndex": 108,
+      "NameNote": "Saddle Brown",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB109",
+      "ColorIndex": 109,
+      "NameNote": "Tarnished Obsidian",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB110",
+      "ColorIndex": 110,
+      "NameNote": "Dark Tan",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB111",
+      "ColorIndex": 111,
+      "NameNote": "Forest Lichen",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB112",
+      "ColorIndex": 112,
+      "NameNote": "Russet Brown",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB113",
+      "ColorIndex": 113,
+      "NameNote": "Dust",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB114",
+      "ColorIndex": 114,
+      "NameNote": "Delicate Silver",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB115",
+      "ColorIndex": 115,
+      "NameNote": "Rough Almond",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB116",
+      "ColorIndex": 116,
+      "NameNote": "Copper",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB117",
+      "ColorIndex": 117,
+      "NameNote": "Dazzling Coral",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB118",
+      "ColorIndex": 118,
+      "NameNote": "Paradise Vermilion",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB119",
+      "ColorIndex": 119,
+      "NameNote": "Amaranth",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB120",
+      "ColorIndex": 120,
+      "NameNote": "Rose Stone",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB121",
+      "ColorIndex": 121,
+      "NameNote": "Field Peach",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB122",
+      "ColorIndex": 122,
+      "NameNote": "Sea Clam",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB123",
+      "ColorIndex": 123,
+      "NameNote": "Deep Chocolate",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB124",
+      "ColorIndex": 124,
+      "NameNote": "Rich Vanilla",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB125",
+      "ColorIndex": 125,
+      "NameNote": "Seasoned Leather",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB126",
+      "ColorIndex": 126,
+      "NameNote": "Spicy Pepper",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB127",
+      "ColorIndex": 127,
+      "NameNote": "Rusty Cream",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB128",
+      "ColorIndex": 128,
+      "NameNote": "Medium Carmine",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB129",
+      "ColorIndex": 129,
+      "NameNote": "Desert",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB130",
+      "ColorIndex": 130,
+      "NameNote": "Sunset Slate",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB131",
+      "ColorIndex": 131,
+      "NameNote": "Distorted Amber",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB132",
+      "ColorIndex": 132,
+      "NameNote": "Cinnamon",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB133",
+      "ColorIndex": 133,
+      "NameNote": "Shadow Moss",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB134",
+      "ColorIndex": 134,
+      "NameNote": "Buttered Rum",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB135",
+      "ColorIndex": 135,
+      "NameNote": "Raw Sienna",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB136",
+      "ColorIndex": 136,
+      "NameNote": "Delicate Sand",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB137",
+      "ColorIndex": 137,
+      "NameNote": "Harvest Barley",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB138",
+      "ColorIndex": 138,
+      "NameNote": "Grit",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB139",
+      "ColorIndex": 139,
+      "NameNote": "Twine",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB140",
+      "ColorIndex": 140,
+      "NameNote": "Verdun Green",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB141",
+      "ColorIndex": 141,
+      "NameNote": "Swamp Grass",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB142",
+      "ColorIndex": 142,
+      "NameNote": "Autumn Moss",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB143",
+      "ColorIndex": 143,
+      "NameNote": "Warm Slime",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB144",
+      "ColorIndex": 144,
+      "NameNote": "Avocado",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB145",
+      "ColorIndex": 145,
+      "NameNote": "Tropical Mist",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB146",
+      "ColorIndex": 146,
+      "NameNote": "Tarnished Jade",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB147",
+      "ColorIndex": 147,
+      "NameNote": "Pesto",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB148",
+      "ColorIndex": 148,
+      "NameNote": "Wedgewood",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB149",
+      "ColorIndex": 149,
+      "NameNote": "Smokey Malachite",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB150",
+      "ColorIndex": 150,
+      "NameNote": "Viridian Green",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB151",
+      "ColorIndex": 151,
+      "NameNote": "Tranquil Willow",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB152",
+      "ColorIndex": 152,
+      "NameNote": "Deep Sea Green",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB153",
+      "ColorIndex": 153,
+      "NameNote": "Mineral Green",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB154",
+      "ColorIndex": 154,
+      "NameNote": "Castle Aquamarine",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB155",
+      "ColorIndex": 155,
+      "NameNote": "Soft Cyan",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB156",
+      "ColorIndex": 156,
+      "NameNote": "Pale Cobalt",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB157",
+      "ColorIndex": 157,
+      "NameNote": "Juniper",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB158",
+      "ColorIndex": 158,
+      "NameNote": "Starlight",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB159",
+      "ColorIndex": 159,
+      "NameNote": "Fjord",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB160",
+      "ColorIndex": 160,
+      "NameNote": "Comet",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB161",
+      "ColorIndex": 161,
+      "NameNote": "Aurora Blue",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB162",
+      "ColorIndex": 162,
+      "NameNote": "Elderberry",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB163",
+      "ColorIndex": 163,
+      "NameNote": "Berry Pit",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB164",
+      "ColorIndex": 164,
+      "NameNote": "Coarse Amethyst",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB165",
+      "ColorIndex": 165,
+      "NameNote": "Sovereign Purple",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB166",
+      "ColorIndex": 166,
+      "NameNote": "Cool Violet",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB167",
+      "ColorIndex": 167,
+      "NameNote": "Burnished Lilac",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB168",
+      "ColorIndex": 168,
+      "NameNote": "Harsh Violet",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB169",
+      "ColorIndex": 169,
+      "NameNote": "Putrid Plum",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB170",
+      "ColorIndex": 170,
+      "NameNote": "Daisy Pink",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB171",
+      "ColorIndex": 171,
+      "NameNote": "Sublime Velvet",
+      "BoolNote": null
+    },
+    {
+      "DyeItemId": "DyeB172",
+      "ColorIndex": 172,
+      "NameNote": "Summer Rasberry",
+      "BoolNote": null
+    }
+  ]
+}

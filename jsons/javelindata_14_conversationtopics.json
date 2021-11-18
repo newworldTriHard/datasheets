@@ -1,0 +1,22 @@
+{
+  "Items": [
+    {
+      "ConversationTopicId": "1403_Topic1",
+      "PlayerPrompt": "@1403_Topic1_Prompt",
+      "NPCResponse": "@1403_Topic1_Response",
+      "AchievementUnlock": null,
+      "RequiredAchievement": null,
+      "RequiredFaction": null,
+      "RequiredLevel": null
+    },
+    {
+      "ConversationTopicId": "1425_Prospector_talk",
+      "PlayerPrompt": "@1425_Prospector_talk_Prompt",
+      "NPCResponse": "@1425_Prospector_talk_Response",
+      "AchievementUnlock": null,
+      "RequiredAchievement": null,
+      "RequiredFaction": null,
+      "RequiredLevel": null
+    }
+  ]
+}

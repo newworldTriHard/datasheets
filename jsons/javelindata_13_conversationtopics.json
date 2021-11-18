@@ -1,0 +1,22 @@
+{
+  "Items": [
+    {
+      "ConversationTopicId": "1301_Torchy_01",
+      "PlayerPrompt": "@1301_Torchy_01_Prompt",
+      "NPCResponse": "@1301_Torchy_01_Response",
+      "AchievementUnlock": null,
+      "RequiredAchievement": null,
+      "RequiredFaction": null,
+      "RequiredLevel": null
+    },
+    {
+      "ConversationTopicId": "1331_MonsterHunter_01",
+      "PlayerPrompt": "@1331_MonsterHunter_01_Prompt",
+      "NPCResponse": "@1331_MonsterHunter_01_Response",
+      "AchievementUnlock": null,
+      "RequiredAchievement": null,
+      "RequiredFaction": null,
+      "RequiredLevel": null
+    }
+  ]
+}

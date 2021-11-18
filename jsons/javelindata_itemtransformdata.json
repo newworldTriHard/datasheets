@@ -1,0 +1,74 @@
+{
+  "Items": [
+    {
+      "FromItemId": "ArcanistCharmT2",
+      "ToItemId": "ArcanistCharmT1",
+      "KeepPerks": 0
+    },
+    {
+      "FromItemId": "ArmorerCharmT2",
+      "ToItemId": "ArmorerCharmT1",
+      "KeepPerks": 0
+    },
+    {
+      "FromItemId": "ChefCharmT2",
+      "ToItemId": "ChefCharmT1",
+      "KeepPerks": 0
+    },
+    {
+      "FromItemId": "CorruptedMatterT1",
+      "ToItemId": "CorruptedMatterT2",
+      "KeepPerks": 0
+    },
+    {
+      "FromItemId": "JewelcrafterCharmT2",
+      "ToItemId": "JewelcrafterCharmT1",
+      "KeepPerks": 0
+    },
+    {
+      "FromItemId": "TravelersCharmT3",
+      "ToItemId": "TravelersCharmT2",
+      "KeepPerks": 0
+    },
+    {
+      "FromItemId": "ViscousAzothT1",
+      "ToItemId": "ViscousAzothT2",
+      "KeepPerks": 0
+    },
+    {
+      "FromItemId": "WrithingVinesT1",
+      "ToItemId": "WrithingBriarT2",
+      "KeepPerks": 0
+    },
+    {
+      "FromItemId": "WrithingVinesT2",
+      "ToItemId": "WrithingBriarT3",
+      "KeepPerks": 0
+    },
+    {
+      "FromItemId": "WrithingVinesT3",
+      "ToItemId": "WrithingBriarT3",
+      "KeepPerks": 0
+    },
+    {
+      "FromItemId": "WyrdwoodResinT2",
+      "ToItemId": "ResinT1",
+      "KeepPerks": 0
+    },
+    {
+      "FromItemId": "WyrdwoodResinT3",
+      "ToItemId": "ResinT1",
+      "KeepPerks": 0
+    },
+    {
+      "FromItemId": "WyrdwoodSapT2",
+      "ToItemId": "SapT2",
+      "KeepPerks": 0
+    },
+    {
+      "FromItemId": "WyrdwoodSapT3",
+      "ToItemId": "SapT3",
+      "KeepPerks": 0
+    }
+  ]
+}

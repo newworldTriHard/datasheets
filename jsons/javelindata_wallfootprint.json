@@ -1,0 +1,94 @@
+{
+  "Items": [
+    {
+      "FootprintID": "Footprint_Straight_LeftRight",
+      "SidesTakenUp": "Left\u002BRight",
+      "Rotation": 0,
+      "FootprintType": "Straight"
+    },
+    {
+      "FootprintID": "Footprint_Straight_FrontBack",
+      "SidesTakenUp": "Front\u002BBack",
+      "Rotation": -90,
+      "FootprintType": "Straight"
+    },
+    {
+      "FootprintID": "Footprint_Cross",
+      "SidesTakenUp": "Front\u002BBack\u002BLeft\u002BRight",
+      "Rotation": 0,
+      "FootprintType": "Cross"
+    },
+    {
+      "FootprintID": "Footprint_Corner_RightFront",
+      "SidesTakenUp": "Right\u002BFront",
+      "Rotation": 0,
+      "FootprintType": "Corner"
+    },
+    {
+      "FootprintID": "Footprint_Corner_BackRight",
+      "SidesTakenUp": "Back\u002BRight",
+      "Rotation": -90,
+      "FootprintType": "Corner"
+    },
+    {
+      "FootprintID": "Footprint_Corner_LeftBack",
+      "SidesTakenUp": "Left\u002BBack",
+      "Rotation": -180,
+      "FootprintType": "Corner"
+    },
+    {
+      "FootprintID": "Footprint_Corner_FrontLeft",
+      "SidesTakenUp": "Front\u002BLeft",
+      "Rotation": -270,
+      "FootprintType": "Corner"
+    },
+    {
+      "FootprintID": "Footprint_TShape_RightFrontLeft",
+      "SidesTakenUp": "Right\u002BFront\u002BLeft",
+      "Rotation": 0,
+      "FootprintType": "TShape"
+    },
+    {
+      "FootprintID": "Footprint_TShape_BackRightFront",
+      "SidesTakenUp": "Back\u002BRight\u002BFront",
+      "Rotation": -90,
+      "FootprintType": "TShape"
+    },
+    {
+      "FootprintID": "Footprint_TShape_LeftBackRight",
+      "SidesTakenUp": "Left\u002BBack\u002BRight",
+      "Rotation": -180,
+      "FootprintType": "TShape"
+    },
+    {
+      "FootprintID": "Footprint_TShape_FrontLeftBack",
+      "SidesTakenUp": "Front\u002BLeft\u002BBack",
+      "Rotation": -270,
+      "FootprintType": "TShape"
+    },
+    {
+      "FootprintID": "Footprint_Diagonal_BackRight",
+      "SidesTakenUp": "Back\u002BRight",
+      "Rotation": 0,
+      "FootprintType": "Diagonal"
+    },
+    {
+      "FootprintID": "Footprint_Diagonal_LeftBack",
+      "SidesTakenUp": "Left\u002BBack",
+      "Rotation": -90,
+      "FootprintType": "Diagonal"
+    },
+    {
+      "FootprintID": "Footprint_Diagonal_FrontLeft",
+      "SidesTakenUp": "Front\u002BLeft",
+      "Rotation": -180,
+      "FootprintType": "Diagonal"
+    },
+    {
+      "FootprintID": "Footprint_Diagonal_RightFront",
+      "SidesTakenUp": "Right\u002BFront",
+      "Rotation": -270,
+      "FootprintType": "Diagonal"
+    }
+  ]
+}
