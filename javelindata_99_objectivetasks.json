@@ -6269,7 +6269,7 @@
       "POITag": null,
       "LootTag": null,
       "PauseAndClearLootOnTaskComplete": null,
-      "AwardOnlyOnce": "TRUE",
+      "AwardOnlyOnce": null,
       "ShouldCheckPoints": null,
       "GuranteedDropAttempts": null,
       "TargetThreshold": null,
